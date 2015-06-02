@@ -14,9 +14,17 @@ html, body {
    	background-size: cover;
 }
 
-h1 {
-	font-size: 5vw;
+.navbar-brand {
+	font-size: 36px;
 	color: white;
-	font-weight: 400;
+	font-weight: 100;
 	font-family: 'Raleway'. sans-serif;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
 }
